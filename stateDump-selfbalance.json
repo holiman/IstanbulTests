@@ -1,0 +1,112 @@
+{
+ "ConstantinopleFix": [
+  {
+   "dump": {
+    "root": "1593e94e4410d2cf5e345baf074d55d45f47deb7614ae6a578e15f0b1d2e4a17",
+    "accounts": {
+     "0x0000000000000000000000000000000000001337": {
+      "balance": "500",
+      "nonce": 0,
+      "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
+      "codeHash": "17e96e689539511248bcb40ebd33f59fd51b9e5e980706b6ccaadd2fa92ce768",
+      "code": "47600155"
+     },
+     "0xaa63f1a023db5d368968cb9daac6a67e06448c47": {
+      "balance": "1000000",
+      "nonce": 1,
+      "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
+      "codeHash": "c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+     }
+    }
+   },
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 0
+   }
+  },
+  {
+   "dump": {
+    "root": "1593e94e4410d2cf5e345baf074d55d45f47deb7614ae6a578e15f0b1d2e4a17",
+    "accounts": {
+     "0x0000000000000000000000000000000000001337": {
+      "balance": "500",
+      "nonce": 0,
+      "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
+      "codeHash": "17e96e689539511248bcb40ebd33f59fd51b9e5e980706b6ccaadd2fa92ce768",
+      "code": "47600155"
+     },
+     "0xaa63f1a023db5d368968cb9daac6a67e06448c47": {
+      "balance": "1000000",
+      "nonce": 1,
+      "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
+      "codeHash": "c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+     }
+    }
+   },
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 1
+   }
+  }
+ ],
+ "ConstantinopleFix+1884": [
+  {
+   "dump": {
+    "root": "0f1176f2fa772f01e35c0d726191e2a9f45fabb952e0ad8125096a66b1257812",
+    "accounts": {
+     "0x0000000000000000000000000000000000001337": {
+      "balance": "500",
+      "nonce": 0,
+      "root": "1b440c0c1e0ed11e071fd5e7472b3d09c5666ce66cbd62f1105109765dc15099",
+      "codeHash": "17e96e689539511248bcb40ebd33f59fd51b9e5e980706b6ccaadd2fa92ce768",
+      "code": "47600155",
+      "storage": {
+       "0x0000000000000000000000000000000000000000000000000000000000000001": "8201f4"
+      }
+     },
+     "0xaa63f1a023db5d368968cb9daac6a67e06448c47": {
+      "balance": "1000000",
+      "nonce": 1,
+      "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
+      "codeHash": "c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+     }
+    }
+   },
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 0
+   }
+  },
+  {
+   "dump": {
+    "root": "4600c12caed52b21f49d9e31ee986b9d7a2e4d00ae70f346619ef797ef5cd119",
+    "accounts": {
+     "0x0000000000000000000000000000000000001337": {
+      "balance": "755",
+      "nonce": 0,
+      "root": "2bb49213ee4e15fa5fcf1a7b698066f19fa7a5aa18fac333c491849454a26a87",
+      "codeHash": "17e96e689539511248bcb40ebd33f59fd51b9e5e980706b6ccaadd2fa92ce768",
+      "code": "47600155",
+      "storage": {
+       "0x0000000000000000000000000000000000000000000000000000000000000001": "8202f3"
+      }
+     },
+     "0xaa63f1a023db5d368968cb9daac6a67e06448c47": {
+      "balance": "999745",
+      "nonce": 1,
+      "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
+      "codeHash": "c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+     }
+    }
+   },
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 1
+   }
+  }
+ ]
+}
