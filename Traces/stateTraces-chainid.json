@@ -1,0 +1,22 @@
+{
+ "ConstantinopleFix": [
+  {
+   "trace": "{\"pc\":0,\"op\":70,\"gas\":\"0x13498\",\"gasCost\":\"0x0\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"CHAINID\",\"error\":\"invalid opcode 0x46\"}\n{\"output\":\"\",\"gasUsed\":\"0x13498\",\"error\":\"invalid opcode 0x46\"}\n",
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 0
+   }
+  }
+ ],
+ "ConstantinopleFix+1344": [
+  {
+   "trace": "{\"pc\":0,\"op\":70,\"gas\":\"0x13498\",\"gasCost\":\"0x2\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"CHAINID\",\"error\":\"\"}\n{\"pc\":1,\"op\":96,\"gas\":\"0x13496\",\"gasCost\":\"0x3\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1\"],\"depth\":1,\"refund\":0,\"opName\":\"PUSH1\",\"error\":\"\"}\n{\"pc\":3,\"op\":85,\"gas\":\"0x13493\",\"gasCost\":\"0x4e20\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1\",\"0x1\"],\"depth\":1,\"refund\":0,\"opName\":\"SSTORE\",\"error\":\"\"}\n{\"pc\":4,\"op\":0,\"gas\":\"0xe673\",\"gasCost\":\"0x0\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"STOP\",\"error\":\"\"}\n{\"output\":\"\",\"gasUsed\":\"0x4e25\"}\n",
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 0
+   }
+  }
+ ]
+}

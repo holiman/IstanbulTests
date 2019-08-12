@@ -2,26 +2,23 @@
  "ConstantinopleFix": [
   {
    "dump": {
-    "root": "df8291fb8de4d25a964394667b5b67de79a6b844eace8a7c8d42e5db7a99f523",
+    "root": "25aa4d867f1130cef250b5d6b7ba0ae468fa8752529f773a250ecd60b794880f",
     "accounts": {
      "0x0000000000000000000000000000000000001337": {
       "balance": "500",
       "nonce": 0,
-      "root": "90e00feb91d6a1309b468f02b05e1b571d963300f75923fbb409949350cf9055",
-      "codeHash": "d7f4c470080cf80fd3e2eaa5401bc76a14ca7c6ce28b99b79fbd39e2bfc786ee",
-      "code": "5a80545a90509003600155",
-      "storage": {
-       "0x0000000000000000000000000000000000000000000000000000000000000001": "81cd"
-      }
+      "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
+      "codeHash": "8b883e64aac3fe254c87b3c68d4fdccbcf2f7bdaae037216aa9a1ea9eaee7f44",
+      "code": "46600155"
      },
      "0x000000000000000000000000000000000000ba5e": {
-      "balance": "41221",
+      "balance": "100000",
       "nonce": 1,
       "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
       "codeHash": "c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
      },
      "0xaa63f1a023db5d368968cb9daac6a67e06448c47": {
-      "balance": "958779",
+      "balance": "900000",
       "nonce": 1,
       "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
       "codeHash": "c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
@@ -35,29 +32,29 @@
    }
   }
  ],
- "ConstantinopleFix+1884": [
+ "ConstantinopleFix+1344": [
   {
    "dump": {
-    "root": "ed6a69dfb215b2e7d1ca0744ac7601e0254e3ad7641030ae1da7bb4962f96ea1",
+    "root": "b9bd2d011e7e87380594e7ddbeba48ee3d163a8a0f148511778809f23fa27e3f",
     "accounts": {
      "0x0000000000000000000000000000000000001337": {
       "balance": "500",
       "nonce": 0,
-      "root": "9cdbc069154bad30320a8799108318e679c566130d82a73502e3a0adcf635322",
-      "codeHash": "d7f4c470080cf80fd3e2eaa5401bc76a14ca7c6ce28b99b79fbd39e2bfc786ee",
-      "code": "5a80545a90509003600155",
+      "root": "f38f9f63c760d088d7dd04f743619b6291f63beebd8bdf530628f90e9cfa52d7",
+      "codeHash": "8b883e64aac3fe254c87b3c68d4fdccbcf2f7bdaae037216aa9a1ea9eaee7f44",
+      "code": "46600155",
       "storage": {
-       "0x0000000000000000000000000000000000000000000000000000000000000001": "820325"
+       "0x0000000000000000000000000000000000000000000000000000000000000001": "01"
       }
      },
      "0x000000000000000000000000000000000000ba5e": {
-      "balance": "41821",
+      "balance": "41005",
       "nonce": 1,
       "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
       "codeHash": "c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
      },
      "0xaa63f1a023db5d368968cb9daac6a67e06448c47": {
-      "balance": "958179",
+      "balance": "958995",
       "nonce": 1,
       "root": "56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
       "codeHash": "c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"

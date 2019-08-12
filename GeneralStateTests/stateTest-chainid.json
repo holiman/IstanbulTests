@@ -1,5 +1,5 @@
 {
- "sloadGasCost": {
+ "chainid": {
   "env": {
    "currentCoinbase": "000000000000000000000000000000000000ba5e",
    "currentDifficulty": "0xffffffffff",
@@ -9,7 +9,7 @@
   },
   "pre": {
    "0x0000000000000000000000000000000000001337": {
-    "code": "0x5a80545a90509003600155",
+    "code": "0x46600155",
     "balance": "0x1f4"
    },
    "0x000000000000000000000000000000000000ba5e": {
@@ -39,7 +39,7 @@
   "post": {
    "ConstantinopleFix": [
     {
-     "hash": "df8291fb8de4d25a964394667b5b67de79a6b844eace8a7c8d42e5db7a99f523",
+     "hash": "25aa4d867f1130cef250b5d6b7ba0ae468fa8752529f773a250ecd60b794880f",
      "logs": "1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
      "Indexes": {
       "data": 0,
@@ -48,9 +48,9 @@
      }
     }
    ],
-   "ConstantinopleFix+1884": [
+   "ConstantinopleFix+1344": [
     {
-     "hash": "ed6a69dfb215b2e7d1ca0744ac7601e0254e3ad7641030ae1da7bb4962f96ea1",
+     "hash": "b9bd2d011e7e87380594e7ddbeba48ee3d163a8a0f148511778809f23fa27e3f",
      "logs": "1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
      "Indexes": {
       "data": 0,
