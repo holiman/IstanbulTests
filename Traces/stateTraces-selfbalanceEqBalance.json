@@ -1,0 +1,38 @@
+{
+ "ConstantinopleFix": [
+  {
+   "trace": "{\"pc\":0,\"op\":48,\"gas\":\"0x13498\",\"gasCost\":\"0x2\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"ADDRESS\",\"error\":\"\"}\n{\"pc\":1,\"op\":49,\"gas\":\"0x13496\",\"gasCost\":\"0x190\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1337\"],\"depth\":1,\"refund\":0,\"opName\":\"BALANCE\",\"error\":\"\"}\n{\"pc\":2,\"op\":71,\"gas\":\"0x13306\",\"gasCost\":\"0x190\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1f4\"],\"depth\":1,\"refund\":0,\"opName\":\"SELFBALANCE\",\"error\":\"invalid opcode 0x47\"}\n{\"output\":\"\",\"gasUsed\":\"0x13498\",\"time\":24313,\"error\":\"invalid opcode 0x47\"}\n",
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 0
+   }
+  },
+  {
+   "trace": "{\"pc\":0,\"op\":48,\"gas\":\"0x13498\",\"gasCost\":\"0x2\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"ADDRESS\",\"error\":\"\"}\n{\"pc\":1,\"op\":49,\"gas\":\"0x13496\",\"gasCost\":\"0x190\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1337\"],\"depth\":1,\"refund\":0,\"opName\":\"BALANCE\",\"error\":\"\"}\n{\"pc\":2,\"op\":71,\"gas\":\"0x13306\",\"gasCost\":\"0x190\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x2f3\"],\"depth\":1,\"refund\":0,\"opName\":\"SELFBALANCE\",\"error\":\"invalid opcode 0x47\"}\n{\"output\":\"\",\"gasUsed\":\"0x13498\",\"time\":22991,\"error\":\"invalid opcode 0x47\"}\n",
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 1
+   }
+  }
+ ],
+ "ConstantinopleFix+1884": [
+  {
+   "trace": "{\"pc\":0,\"op\":48,\"gas\":\"0x13498\",\"gasCost\":\"0x2\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"ADDRESS\",\"error\":\"\"}\n{\"pc\":1,\"op\":49,\"gas\":\"0x13496\",\"gasCost\":\"0x2bc\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1337\"],\"depth\":1,\"refund\":0,\"opName\":\"BALANCE\",\"error\":\"\"}\n{\"pc\":2,\"op\":71,\"gas\":\"0x131da\",\"gasCost\":\"0x5\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1f4\"],\"depth\":1,\"refund\":0,\"opName\":\"SELFBALANCE\",\"error\":\"\"}\n{\"pc\":3,\"op\":20,\"gas\":\"0x131d5\",\"gasCost\":\"0x3\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1f4\",\"0x1f4\"],\"depth\":1,\"refund\":0,\"opName\":\"EQ\",\"error\":\"\"}\n{\"pc\":4,\"op\":96,\"gas\":\"0x131d2\",\"gasCost\":\"0x3\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1\"],\"depth\":1,\"refund\":0,\"opName\":\"PUSH1\",\"error\":\"\"}\n{\"pc\":6,\"op\":85,\"gas\":\"0x131cf\",\"gasCost\":\"0x4e20\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1\",\"0x1\"],\"depth\":1,\"refund\":0,\"opName\":\"SSTORE\",\"error\":\"\"}\n{\"pc\":7,\"op\":0,\"gas\":\"0xe3af\",\"gasCost\":\"0x0\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"STOP\",\"error\":\"\"}\n{\"output\":\"\",\"gasUsed\":\"0x50e9\",\"time\":55221}\n",
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 0
+   }
+  },
+  {
+   "trace": "{\"pc\":0,\"op\":48,\"gas\":\"0x13498\",\"gasCost\":\"0x2\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"ADDRESS\",\"error\":\"\"}\n{\"pc\":1,\"op\":49,\"gas\":\"0x13496\",\"gasCost\":\"0x2bc\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1337\"],\"depth\":1,\"refund\":0,\"opName\":\"BALANCE\",\"error\":\"\"}\n{\"pc\":2,\"op\":71,\"gas\":\"0x131da\",\"gasCost\":\"0x5\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x2f3\"],\"depth\":1,\"refund\":0,\"opName\":\"SELFBALANCE\",\"error\":\"\"}\n{\"pc\":3,\"op\":20,\"gas\":\"0x131d5\",\"gasCost\":\"0x3\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x2f3\",\"0x2f3\"],\"depth\":1,\"refund\":0,\"opName\":\"EQ\",\"error\":\"\"}\n{\"pc\":4,\"op\":96,\"gas\":\"0x131d2\",\"gasCost\":\"0x3\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1\"],\"depth\":1,\"refund\":0,\"opName\":\"PUSH1\",\"error\":\"\"}\n{\"pc\":6,\"op\":85,\"gas\":\"0x131cf\",\"gasCost\":\"0x4e20\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[\"0x1\",\"0x1\"],\"depth\":1,\"refund\":0,\"opName\":\"SSTORE\",\"error\":\"\"}\n{\"pc\":7,\"op\":0,\"gas\":\"0xe3af\",\"gasCost\":\"0x0\",\"memory\":\"0x\",\"memSize\":0,\"stack\":[],\"depth\":1,\"refund\":0,\"opName\":\"STOP\",\"error\":\"\"}\n{\"output\":\"\",\"gasUsed\":\"0x50e9\",\"time\":51366}\n",
+   "Indexes": {
+    "data": 0,
+    "gas": 0,
+    "value": 1
+   }
+  }
+ ]
+}

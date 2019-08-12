@@ -1,5 +1,5 @@
 {
- "selfbalance": {
+ "selfbalanceEqBalance": {
   "env": {
    "currentCoinbase": "000000000000000000000000000000000000ba5e",
    "currentDifficulty": "0xffffffffff",
@@ -9,7 +9,7 @@
   },
   "pre": {
    "0x0000000000000000000000000000000000001337": {
-    "code": "0x47600155",
+    "code": "0x30314714600155",
     "balance": "0x1f4"
    },
    "0x000000000000000000000000000000000000ba5e": {
@@ -40,7 +40,7 @@
   "post": {
    "ConstantinopleFix": [
     {
-     "hash": "eb9f5adf5d1494e42f4ebb077b682b931dde7bdba35c1fed5cbbf436a327d1ea",
+     "hash": "8e083e7470044560b4e4afdb8fce0779414ec10bb3562b274f93ea43df6f532b",
      "logs": "1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
      "Indexes": {
       "data": 0,
@@ -49,7 +49,7 @@
      }
     },
     {
-     "hash": "eb9f5adf5d1494e42f4ebb077b682b931dde7bdba35c1fed5cbbf436a327d1ea",
+     "hash": "8e083e7470044560b4e4afdb8fce0779414ec10bb3562b274f93ea43df6f532b",
      "logs": "1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
      "Indexes": {
       "data": 0,
@@ -60,7 +60,7 @@
    ],
    "ConstantinopleFix+1884": [
     {
-     "hash": "93f2262134d0a60ece26c4a02c857fc0eb91e1d8bda16cc2599c814017f7560b",
+     "hash": "468de22cd5a687f05f79f2578d112896c9aa5aab6f2a0a61efd292efefdf071f",
      "logs": "1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
      "Indexes": {
       "data": 0,
@@ -69,7 +69,7 @@
      }
     },
     {
-     "hash": "356fb9ebf7ac83d1c08628de72bf9c5a7ae030e6b45d5cf0aadf76fd677e7950",
+     "hash": "7540416e84da0cf2c944e7fc148da7ca661f23047fe6691544015d107cf33b9b",
      "logs": "1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
      "Indexes": {
       "data": 0,
