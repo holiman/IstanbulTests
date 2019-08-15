@@ -1,0 +1,28 @@
+{
+ "Byzantium": {
+  "sender": "f9358f2538fd5ccfeb848b64a96b743fcc930554",
+  "hash": "0b2b499d5a3e729bcc197e1a00f922d80890472299dd1c648988eb08b5b1ff0a"
+ },
+ "Constantinople": {
+  "sender": "f9358f2538fd5ccfeb848b64a96b743fcc930554",
+  "hash": "0b2b499d5a3e729bcc197e1a00f922d80890472299dd1c648988eb08b5b1ff0a"
+ },
+ "EIP150": {},
+ "EIP158": {
+  "sender": "f9358f2538fd5ccfeb848b64a96b743fcc930554",
+  "hash": "0b2b499d5a3e729bcc197e1a00f922d80890472299dd1c648988eb08b5b1ff0a"
+ },
+ "Frontier": {},
+ "Homestead": {},
+ "Istanbul": {
+  "sender": "f9358f2538fd5ccfeb848b64a96b743fcc930554",
+  "hash": "0b2b499d5a3e729bcc197e1a00f922d80890472299dd1c648988eb08b5b1ff0a"
+ },
+ "_info": {
+  "comment": "filled by geth",
+  "filledwith": "go-ethereum/txfill: 1.9.2-unstable",
+  "llcversion": "N/A",
+  "source": "/ttSignature/Vitalik_5Filler.json"
+ },
+ "rlp": "0xf865048504a817c80483019a28943535353535353535353535353535353535353535408025a013600b294191fc92924bb3ce4b969c1e7e2bab8f4c93c3fc6d0a51733df3c063a013600b294191fc92924bb3ce4b969c1e7e2bab8f4c93c3fc6d0a51733df3c060"
+}

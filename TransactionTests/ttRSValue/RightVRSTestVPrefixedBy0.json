@@ -1,0 +1,16 @@
+{
+ "Byzantium": {},
+ "Constantinople": {},
+ "EIP150": {},
+ "EIP158": {},
+ "Frontier": {},
+ "Homestead": {},
+ "Istanbul": {},
+ "_info": {
+  "comment": "filled by geth",
+  "filledwith": "go-ethereum/txfill: 1.9.2-unstable",
+  "llcversion": "N/A",
+  "source": "/ttRSValue/RightVRSTestVPrefixedBy0Filler.json"
+ },
+ "rlp": "0xf85f030182c73894b94f5374fce5edbc8e2a8697c15331677e6ebf0b0a8028a098ff921201554726367d2be8c804a7ff89ccf285ebc57dff8ae4c44b9c19ac4aa01887321be575c8095f789dd4c743dfe42c1820f9231f98a962b210e3ac2452a3"
+}

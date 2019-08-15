@@ -1,0 +1,37 @@
+{
+ "Byzantium": {
+  "sender": "58d79230fc81a042315da7d243272798e27cb40c",
+  "hash": "1cbb233404f49e96cb795d0ea74f485eca2c41a216e0ce80694cef4dd7a45b50"
+ },
+ "Constantinople": {
+  "sender": "58d79230fc81a042315da7d243272798e27cb40c",
+  "hash": "1cbb233404f49e96cb795d0ea74f485eca2c41a216e0ce80694cef4dd7a45b50"
+ },
+ "EIP150": {
+  "sender": "58d79230fc81a042315da7d243272798e27cb40c",
+  "hash": "1cbb233404f49e96cb795d0ea74f485eca2c41a216e0ce80694cef4dd7a45b50"
+ },
+ "EIP158": {
+  "sender": "58d79230fc81a042315da7d243272798e27cb40c",
+  "hash": "1cbb233404f49e96cb795d0ea74f485eca2c41a216e0ce80694cef4dd7a45b50"
+ },
+ "Frontier": {
+  "sender": "58d79230fc81a042315da7d243272798e27cb40c",
+  "hash": "1cbb233404f49e96cb795d0ea74f485eca2c41a216e0ce80694cef4dd7a45b50"
+ },
+ "Homestead": {
+  "sender": "58d79230fc81a042315da7d243272798e27cb40c",
+  "hash": "1cbb233404f49e96cb795d0ea74f485eca2c41a216e0ce80694cef4dd7a45b50"
+ },
+ "Istanbul": {
+  "sender": "58d79230fc81a042315da7d243272798e27cb40c",
+  "hash": "1cbb233404f49e96cb795d0ea74f485eca2c41a216e0ce80694cef4dd7a45b50"
+ },
+ "_info": {
+  "comment": "filled by geth",
+  "filledwith": "go-ethereum/txfill: 1.9.2-unstable",
+  "llcversion": "N/A",
+  "source": "/ttSignature/RightVRSTestFiller.json"
+ },
+ "rlp": "0xf85f030182520894b94f5374fce5edbc8e2a8697c15331677e6ebf0b0a801ca098ff921201554726367d2be8c804a7ff89ccf285ebc57dff8ae4c44b9c19ac4aa01887321be575c8095f789dd4c743dfe42c1820f9231f98a962b210e3ac2452a3"
+}

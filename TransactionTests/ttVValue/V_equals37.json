@@ -1,0 +1,28 @@
+{
+ "Byzantium": {
+  "sender": "2ea991808ba979ba103147edfd72304ebd95c028",
+  "hash": "4782cb5edcaeda1f0aef204b161214f124cefade9e146245183abbb9ca01bca5"
+ },
+ "Constantinople": {
+  "sender": "2ea991808ba979ba103147edfd72304ebd95c028",
+  "hash": "4782cb5edcaeda1f0aef204b161214f124cefade9e146245183abbb9ca01bca5"
+ },
+ "EIP150": {},
+ "EIP158": {
+  "sender": "2ea991808ba979ba103147edfd72304ebd95c028",
+  "hash": "4782cb5edcaeda1f0aef204b161214f124cefade9e146245183abbb9ca01bca5"
+ },
+ "Frontier": {},
+ "Homestead": {},
+ "Istanbul": {
+  "sender": "2ea991808ba979ba103147edfd72304ebd95c028",
+  "hash": "4782cb5edcaeda1f0aef204b161214f124cefade9e146245183abbb9ca01bca5"
+ },
+ "_info": {
+  "comment": "filled by geth",
+  "filledwith": "go-ethereum/txfill: 1.9.2-unstable",
+  "llcversion": "N/A",
+  "source": "/ttVValue/V_equals37Filler.json"
+ },
+ "rlp": "0xf865808698852840a46f82d6d894095e7baea6a6c7c4c2dfeb977efac326af552d87808025a098ff921201554726367d2be8c804a7ff89ccf285ebc57dff8ae4c44b9c19ac4aa01887321be575c8095f789dd4c743dfe42c1820f9231f98a962b210e3ac2452a3"
+}

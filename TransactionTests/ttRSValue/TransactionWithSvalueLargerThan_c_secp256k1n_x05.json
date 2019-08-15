@@ -1,0 +1,19 @@
+{
+ "Byzantium": {},
+ "Constantinople": {},
+ "EIP150": {},
+ "EIP158": {},
+ "Frontier": {
+  "sender": "5ced92a94a7bfd7853b12d33ee59dd10ae94eb86",
+  "hash": "aa9b37202f998b5b2145b030d8349f79dad692134a30a2efdba00b9c83ba217a"
+ },
+ "Homestead": {},
+ "Istanbul": {},
+ "_info": {
+  "comment": "filled by geth",
+  "filledwith": "go-ethereum/txfill: 1.9.2-unstable",
+  "llcversion": "N/A",
+  "source": "/ttRSValue/TransactionWithSvalueLargerThan_c_secp256k1n_x05Filler.json"
+ },
+ "rlp": "0xf85f800182520894095e7baea6a6c7c4c2dfeb977efac326af552d870b801ba048b55bfa915ac795c431978d8a6a992b628d557da5ff759b307d495a36649353a07fffffffffffffffffffffffffffffff5d576e7357a4501ddfe92f46681b20a1"
+}

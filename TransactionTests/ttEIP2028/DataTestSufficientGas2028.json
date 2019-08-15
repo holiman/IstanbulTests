@@ -1,0 +1,19 @@
+{
+ "Byzantium": {},
+ "Constantinople": {},
+ "EIP150": {},
+ "EIP158": {},
+ "Frontier": {},
+ "Homestead": {},
+ "Istanbul": {
+  "sender": "b42837109dfc0d8686bca0446112c8db63fdd40b",
+  "hash": "38e1de3a9f4deebd18c635848a9593e10e8cce5543277ddb985c4507694bec89"
+ },
+ "_info": {
+  "comment": "filled by geth",
+  "filledwith": "go-ethereum/txfill: 1.9.2-unstable",
+  "llcversion": "N/A",
+  "source": "/ttEIP2028/DataTestSufficientGas2028Filler.json"
+ },
+ "rlp": "0xf882800182540894095e7baea6a6c7c4c2dfeb977efac326af552d8780a3deadbeef0000000101010010101010101010101010101aaabbbbbbcccccccddddddddd1ba048b55bfa915ac795c431978d8a6a992b628d557da5ff759b307d495a36649353a01fffd310ac743f371de3b9f7f9cb56c0b28ad43601b4ab949f53faa07bd2c804"
+}

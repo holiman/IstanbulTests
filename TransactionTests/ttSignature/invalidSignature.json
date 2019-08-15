@@ -1,0 +1,16 @@
+{
+ "Byzantium": {},
+ "Constantinople": {},
+ "EIP150": {},
+ "EIP158": {},
+ "Frontier": {},
+ "Homestead": {},
+ "Istanbul": {},
+ "_info": {
+  "comment": "filled by geth",
+  "filledwith": "go-ethereum/txfill: 1.9.2-unstable",
+  "llcversion": "N/A",
+  "source": "/ttSignature/invalidSignatureFiller.json"
+ },
+ "rlp": "0xf8638080830f424094095e7baea6a6c7c4c2dfeb977efac326af552d87830186a0801ba0ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffa0badf00d70ec28c94a3b55ec771bcbc70778d6ee0b51ca7ea9514594c861b1884"
+}
